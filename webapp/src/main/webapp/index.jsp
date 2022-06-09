@@ -5,8 +5,10 @@
         %>
         <%@include  file="https://www.fishersci.com/us/en/home.html" %>
         <%
-            }else{
-            <%@include  file="https://www.fishersci.com/us/en/home.html" %>
+            } else{
+        %>
+        <%@include  file="https://www.fishersci.com/us/en/home.html" %>
+        <%
             }
         %>
 
