@@ -134,7 +134,7 @@
           <h2>Register here</h2>
         </div>
         <div class="info">
-          <input class="fname" type="text" name="name" placeholder="Full name">
+          <input class="fname" type="text" name="name" placeholder="Full Name">
           <input type="text" name="name" placeholder="Email">
           <input type="text" name="name" placeholder="Phone Number">
           <input type="password" name="name" placeholder="Password">
