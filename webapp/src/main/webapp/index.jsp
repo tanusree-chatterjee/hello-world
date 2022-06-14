@@ -136,7 +136,7 @@
         <div class="info">
           <input class="fname" type="text" name="name" placeholder="Full name">
           <input type="text" name="name" placeholder="Email">
-          <input type="text" name="name" placeholder="Phone number">
+          <input type="text" name="name" placeholder="Phone Number">
           <input type="password" name="name" placeholder="Password">
         </div>
         <div class="checkbox">
